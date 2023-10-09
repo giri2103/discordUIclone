@@ -1,9 +1,34 @@
 # discordUIclone
 discordUIclone
 
-This is a beginner level project created by me after learning tailwindCss, This Clone is completely made with tailwindCss
+This User interface Clone of discord is completely made with tailwindCss have a look using the demo link, I have also made this project responsive.
 
-To run this in your computer -
-1.)Install NodeJS
-2.)Download all the files in your VS code then in your terminal write this command 
-   - npm run start
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/giri2103/discordUIclone.git
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+## Demo
+
+<a href="https://discorduserinterfaceclone.netlify.app/">Demo</a>
+
+## Screenshot
+
+<img src="https://drive.google.com/uc?export=view&id=1G1ZRYr7qWZp0ASOTP6NuZzKU5rd9mnPy" alt="..."></img>
